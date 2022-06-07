@@ -1,2 +1,2 @@
-# vim
-Всё о vim
+# Neovim
+Всё о Neovim
